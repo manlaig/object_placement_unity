@@ -2,6 +2,10 @@
 
 This is an example of a RTS style building placement in Unity.
 
+## Demo
+
+<img src="https://i.imgflip.com/3ptaym.gif" title="Demo"/>
+
 ## Features
 
 ### Collision Detection
